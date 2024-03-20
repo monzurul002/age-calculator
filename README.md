@@ -20,10 +20,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://age-calculator-p9fr5m8ev-monzurul002.vercel.app/](https://age-calculator-p9fr5m8ev-monzurul002.vercel.app/)
 
-## My process
 
 ### Built with
 
